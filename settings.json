@@ -31,7 +31,7 @@
     ],
     "terminal.integrated.shell.osx": "zsh",
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
-    "terminal.integrated.fontFamily": "Source Code Pro for Powerline",
+    "terminal.integrated.fontFamily": "Iosevka Nerd Font Mono",
     "editor.fontFamily": "Iosevka Nerd Font Mono",
     "editor.fontSize": 16,
     "git.autofetch": true,
@@ -52,5 +52,6 @@
         "editor.defaultFormatter": "esbenp.prettier-vscode"
     },
     "git.enableSmartCommit": true,
-    "python.jediEnabled": false
+    "python.jediEnabled": false,
+    "terminal.integrated.fontSize": 16
 }
